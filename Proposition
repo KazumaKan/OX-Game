@@ -1,0 +1,11 @@
+You should know
+    -The following text is translated by "Google Translate" 
+
+Introduction
+    XO game is a popular childhood game with 2 players, one must choose 'O' and the other must choose 'X'. The winner is determined when one side has 3 boxes lined up in a row/column/diagonal.
+
+Our task is:
+    1. This game is played between a person and a computer.
+    2. One player is the 'O' and the other is the 'X' to mark their cells.
+    3. The game starts with one player and ends when one player has an entire row/column/diagonal filled with their character ('O' or 'X').
+    4. If no one wins, the game is a draw.
